@@ -1,4 +1,4 @@
-# Chef
+i# Chef
 .chef/*.pem
 .chef/encrypted_data_bag_secret
 
@@ -20,7 +20,7 @@ tramp
 # Emacs org-mode
 .org-id-locations
 *_archive
-
+.project
 # SublimeText
 *.sublime-workspace
 
