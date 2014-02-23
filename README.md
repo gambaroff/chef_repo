@@ -1,4 +1,0 @@
-chef_repo
-=========
-
-ruby
